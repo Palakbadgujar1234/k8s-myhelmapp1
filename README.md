@@ -46,4 +46,10 @@ origin  git@github.com:OldUser/oldrepo.git (push)
 
 🔍 Check remotes
 
- remote -vShow more lines
+ remote -v 
+Update all remotesgit remote update
+
+<img width="587" height="410" alt="image" src="https://github.com/user-attachments/assets/83e8b200-e8b0-41e9-a979-39cccdebe972" />
+
+
+
